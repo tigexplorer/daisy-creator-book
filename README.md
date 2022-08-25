@@ -1,5 +1,8 @@
 daisy-creator-book
 ==================
+This repo is outdated and will be archived!
+
+The current repo and hopefully further updates can be found on https://codeberg.org/cExplorer/daisy-creator-book.git
 
 Create digital talking books for blind people in the daisy 2.02 standard
 
